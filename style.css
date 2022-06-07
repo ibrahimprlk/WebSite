@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    width: 900px;
+    height: 600px;
+    background-color: yellow;
+    margin: auto;
+}
+header{
+    border-style: solid;
+    border-color: red;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 900px;
+    height: 50px;
+    
+}
+header ol li{
+    list-style-type: none;
+    float: left;
+    padding: 5px;
+    color: green;
+    font-size: 20px;
+    font-weight: bolder;
+}
